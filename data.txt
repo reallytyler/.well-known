@@ -1,0 +1,24 @@
+{
+  "stock": "2,000",
+  "sold": "2,000+",
+  "reviews": [
+    {
+      "name": "Sh4y4n",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-87CCAA605255EEFC0F1D7F0952D494D1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      "text": "Extremely fast and reliable. Won't buy from anywhere else now.",
+      "rating": 5
+    },
+    {
+      "name": "Ankon",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3075D4E688E53C4D785890A956556108-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      "text": "Blox Cheap is the only place I trust. Ankon here, can confirm they deliver within minutes. Best prices for Robux items!",
+      "rating": 5
+    },
+    {
+      "name": "Abrar",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-736029A88746D47700589255E94C55B5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      "text": "Safe and secure transaction. 100% legit shop!",
+      "rating": 5
+    }
+  ]
+}
